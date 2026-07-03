@@ -1,0 +1,17 @@
+{
+  "name": "devops-stack-api",
+  "version": "1.0.0",
+  "description": "API tasks minimaliste pour la stack devops-stack",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.22.0"
+  }
+}
